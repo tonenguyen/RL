@@ -1,5 +1,4 @@
-# RL
-Reinforcement Learning
+# RL (Reinforcement Learning)
 
 This project helps to understand and build RL (re-inforcement learning) models.
 
