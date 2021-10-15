@@ -4,6 +4,7 @@ This project helps to understand and build RL (re-inforcement learning) models.
 
 Provide opportunties to work with open source ML libaries/frameworks:
   - openai gym (simulated env to train your RL models)
+  - ALE (Arcade-Learning-Environment)
   - tensor flow & keras
 
 
@@ -14,8 +15,8 @@ Provide opportunties to work with open source ML libaries/frameworks:
 
 ### Python version
 
-python3.7.3
-python3.8.3
+- python3.7.3
+- python3.8.3
  
 ### ML dependencies
 
