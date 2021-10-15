@@ -10,10 +10,18 @@ Provide opportunties to work with open source ML libaries/frameworks:
 ### Machine dependencies
 
 - MacBook Pro Intel Core
-- Pending on Linux Machine
+- Linux (Debian) 
 
-### Python dependencies
+### Python version
 
-pip install 'gym[atari]'
+python3.7.3
+python3.8.3
+ 
+### ML dependencies
+
+- pip install 'gym[atari]'
+- pip install 'gym[all]'
+- pip install ALE 
+- pip install tensorflow
 
 
